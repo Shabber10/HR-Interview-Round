@@ -1,253 +1,207 @@
-# 🟢 Level 2: Behavioral, Teamwork & Problem Solving HR Questions (0–2 Years Experience)
-*(Target: Freshers, Recent Graduates, Junior Professionals)*
+# 🟢 Level 2: Behavioral & Teamwork HR Questions (Shabber Hussain)
+*(0–2 Years Experience | Freshers & Junior Professionals)*
 
-> **Core Focus**: Team Collaboration, Handling Deadlines, Overcoming Obstacles, Work Ethic, Receiving Feedback, and Real Project Experiences.
-> **Rule**: Questions in this file are completely unique and do NOT repeat with Level 1 or Level 3.
-> **Language**: Simple, direct, conversational, and strong.
+> **Candidate**: Shabber Hussain
+> **Tone**: Simple, direct, conversational, and strong. Real stories from projects, ROPODS, and NCC.
 
 ---
 
 ## 📑 Table of Contents
 1. [Q01. Describe a time you worked in a team and faced a disagreement.](#q01-describe-a-time-you-worked-in-a-team-and-faced-a-disagreement)
-2. [Q02. Tell me about a time you missed a deadline or were close to missing one.](#q02-tell-me-about-a-time-you-missed-a-deadline-or-were-close-to-missing-one)
-3. [Q03. What do you do when a team member is not doing their share of work?](#q03-what-do-you-do-when-a-team-member-is-not-doing-their-share-of-work)
-4. [Q04. Describe a situation where you had to learn something difficult very quickly.](#q04-describe-a-situation-where-you-had-to-learn-something-difficult-very-quickly)
-5. [Q05. Tell me about a time you received critical feedback and how you reacted.](#q05-tell-me-about-a-time-you-received-critical-feedback-and-how-you-reacted)
-6. [Q06. How do you organize your tasks when you have multiple assignments due on the same day?](#q06-how-do-you-organize-your-tasks-when-you-have-multiple-assignments-due-on-the-same-day)
-7. [Q07. Give an example of a time you solved a tough bug or problem in your code.](#q07-give-an-example-of-a-time-you-solved-a-tough-bug-or-problem-in-your-code)
-8. [Q08. Have you ever had to work with someone who had a very different personality from yours?](#q08-have-you-ever-had-to-work-with-someone-who-had-a-very-different-personality-from-yours)
-9. [Q09. Tell me about a time you went out of your way to help a teammate or friend.](#q09-tell-me-about-a-time-you-went-out-of-your-way-to-help-a-teammate-or-friend)
-10. [Q10. How do you handle boring or repetitive tasks without losing focus?](#q10-how-do-you-handle-boring-or-repetitive-tasks-without-losing-focus)
-11. [Q11. Describe a time you had to present your work to a group of people.](#q11-describe-a-time-you-had-to-present-your-work-to-a-group-of-people)
-12. [Q12. What do you do when your code works on your laptop but fails when tested elsewhere?](#q12-what-do-you-do-when-your-code-works-on-your-laptop-but-fails-when-tested-elsewhere)
-13. [Q13. Tell me about a time you showed leadership in college or outside.](#q13-tell-me-about-a-time-you-showed-leadership-in-college-or-outside)
-14. [Q14. How do you handle it when a project's requirements change in the middle of development?](#q14-how-do-you-handle-it-when-a-projects-requirements-change-in-the-middle-of-development)
-15. [Q15. Have you ever had to follow a rule or process that you didn't agree with?](#q15-have-you-ever-had-to-follow-a-rule-or-process-that-you-didnt-agree-with)
-16. [Q16. Tell me about a time you took the initiative to fix something that was broken.](#q16-tell-me-about-a-time-you-took-the-initiative-to-fix-something-that-was-broken)
-17. [Q17. How do you stay focused when working remotely or from home?](#q17-how-do-you-stay-focused-when-working-remotely-or-from-home)
-18. [Q18. Describe a time you made a suggestion that improved a project or process.](#q18-describe-a-time-you-made-a-suggestion-that-improved-a-project-or-process)
-19. [Q19. What would you do if you noticed a mistake in a senior team member's work?](#q19-what-would-you-do-if-you-noticed-a-mistake-in-a-senior-team-members-work)
-20. [Q20. Tell me about a time you felt overwhelmed and how you got back on track.](#q20-tell-me-about-a-time-you-felt-overwhelmed-and-how-you-got-back-on-track)
-21. [Q21. How do you make sure you don't repeat the same mistake twice?](#q21-how-do-you-make-sure-you-dont-repeat-the-same-mistake-twice)
-22. [Q22. Tell me about a time you had to work under minimal guidance.](#q22-tell-me-about-a-time-you-had-to-work-under-minimal-guidance)
-23. [Q23. How do you handle constructive criticism during code reviews?](#q23-how-do-you-handle-constructive-criticism-during-code-reviews)
-24. [Q24. Describe a situation where you had to compromise to keep a project moving.](#q24-describe-a-situation-where-you-had-to-compromise-to-keep-a-project-moving)
-25. [Q25. What do you do when you finish all your assigned work before the day ends?](#q25-what-do-you-do-when-you-finish-all-your-assigned-work-before-the-day-ends)
-26. [💡 Questions to Ask HR at Level 2](#-questions-to-ask-hr-at-level-2)
+2. [Q02. Tell me about a time you had to learn a technology on the fly for a project.](#q02-tell-me-about-a-time-you-had-to-learn-a-technology-on-the-fly-for-a-project)
+3. [Q03. What do you do when a teammate is struggling or falling behind?](#q03-what-do-you-do-when-a-teammate-is-struggling-or-falling-behind)
+4. [Q04. Describe a situation where you had to manage multiple priorities at once.](#q04-describe-a-situation-where-you-had-to-manage-multiple-priorities-at-once)
+5. [Q05. Tell me about a time you received critical feedback during code review.](#q05-tell-me-about-a-time-you-received-critical-feedback-during-code-review)
+6. [Q06. How do you keep yourself calm and focused when under tight deadlines?](#q06-how-do-you-keep-yourself-calm-and-focused-when-under-tight-deadlines)
+7. [Q07. Tell me about how you handled a bug or code failure in your projects.](#q07-tell-me-about-how-you-handled-a-bug-or-code-failure-in-your-projects)
+8. [Q08. How do you handle working with teammates from completely different states or cultures?](#q08-how-do-you-handle-working-with-teammates-from-completely-different-states-or-cultures)
+9. [Q09. Tell me about a time you went out of your way to help someone learn coding.](#q09-tell-me-about-a-time-you-went-out-of-your-way-to-help-someone-learn-coding)
+10. [Q10. How do you approach repetitive testing or debugging tasks without getting bored?](#q10-how-do-you-approach-repetitive-testing-or-debugging-tasks-without-getting-bored)
+11. [Q11. Describe a time you demonstrated leadership during college or NCC.](#q11-describe-a-time-you-demonstrated-leadership-during-college-or-ncc)
+12. [Q12. What do you do when a feature works locally on your machine but fails in staging?](#q12-what-do-you-do-when-a-feature-works-locally-on-your-machine-but-fails-in-staging)
+13. [Q13. How did you handle building StockSense India with real-time NSE data?](#q13-how-did-you-handle-building-stocksense-india-with-real-time-nse-data)
+14. [Q14. How did you approach building VoiceWeaver for text-to-speech and OCR?](#q14-how-did-you-approach-building-voiceweaver-for-text-to-speech-and-ocr)
+15. [Q15. How do you ensure your code is secure and free of vulnerabilities?](#q15-how-do-you-ensure-your-code-is-secure-and-free-of-vulnerabilities)
+16. [Q16. Tell me about a time you took the initiative to set up backups or safeguards.](#q16-tell-me-about-a-time-you-took-the-initiative-to-set-up-backups-or-safeguards)
+17. [Q17. How do you stay productive and focused when working remotely?](#q17-how-do-you-stay-productive-and-focused-when-working-remotely)
+18. [Q18. Describe a time you automated a manual task to save developer time.](#q18-describe-a-time-you-automated-a-manual-task-to-save-developer-time)
+19. [Q19. What would you do if you noticed a vulnerability in a senior teammate's code?](#q19-what-would-you-do-if-you-noticed-a-vulnerability-in-a-senior-teammates-code)
+20. [Q20. Tell me about a time you felt overwhelmed with college work and how you managed.](#q20-tell-me-about-a-time-you-felt-overwhelmed-with-college-work-and-how-you-managed)
+21. [Q21. How do you make sure you learn from every single mistake?](#q21-how-do-you-make-sure-you-learn-from-every-single-mistake)
+22. [Q22. Tell me about a time you worked independently with minimal guidance.](#q22-tell-me-about-a-time-you-worked-independently-with-minimal-guidance)
+23. [Q23. How do you apply lessons from playing chess to writing software?](#q23-how-do-you-apply-lessons-from-playing-chess-to-writing-software)
+24. [Q24. Describe a situation where you had to compromise to meet a project launch date.](#q24-describe-a-situation-where-you-had-to-compromise-to-meet-a-project-launch-date)
+25. [Q25. What do you do when you finish your assigned tasks ahead of schedule?](#q25-what-do-you-do-when-you-finish-your-assigned-tasks-ahead-of-schedule)
+26. [💡 Questions for Shabber to Ask the HR at Level 2](#-questions-for-shabber-to-ask-the-hr-at-level-2)
 
 ---
 
 ### Q01. Describe a time you worked in a team and faced a disagreement.
-- **Intent**: Checks collaboration, emotional maturity, and teamwork.
 - **Answer**:
-  > "During our final semester project, a teammate wanted to use a NoSQL database while I suggested a relational SQL database because our data had strict relationships. 
+  > "While building our student portal project, a teammate wanted to use a NoSQL database, while I recommended PostgreSQL because our user data had strict relational structure. 
   > 
-  > Instead of arguing, we listed our main tables and queried on a whiteboard. We quickly saw that SQL would save us from writing complex joins in application code. 
+  > Instead of arguing, we drew the schema relationships on a whiteboard. We saw that PostgreSQL would prevent data duplication and give us faster queries. My teammate agreed, and we finished the project smoothly."
+
+---
+
+### Q02. Tell me about a time you had to learn a technology on the fly for a project.
+- **Answer**:
+  > "During my internship at ROPODS, I was tasked with building mobile test automation in Python, Appium, and Pytest, even though my primary background was in C. 
   > 
-  > My teammate agreed, and we finished the project smoothly without any hard feelings."
+  > I used modern AI development tools and mastered prompt engineering to accelerate my learning. Within days, I understood the framework and built an automation workflow that saved 90% of manual testing time."
 
 ---
 
-### Q02. Tell me about a time you missed a deadline or were close to missing one.
-- **Intent**: Checks accountability, communication, and recovery speed.
+### Q03. What do you do when a teammate is struggling or falling behind?
 - **Answer**:
-  > "During an internship assignment, I was building an export feature and underestimated the time needed for edge-case testing. Two days before the deadline, I realized I might not finish on time. 
+  > "I speak with them privately to understand where they are stuck. In college, when a teammate struggled with API connections, I sat with him for an hour, showed him how to debug API responses using Postman, and helped him finish his module on time."
+
+---
+
+### Q04. Describe a situation where you had to manage multiple priorities at once.
+- **Answer**:
+  > "During my final year, I was balancing my ROPODS internship deliverables, building StockSense India, and preparing for semester exams. 
   > 
-  > Instead of staying quiet, I informed my mentor immediately and showed what was done and what remained. He helped me prioritize the core export formats first, and I stayed an extra hour that evening to complete the rest. We shipped on time without risking quality."
+  > I used the **Eisenhower Matrix** to categorize urgent tasks and scheduled 25-minute Pomodoro focus blocks. This kept me disciplined and helped me complete all three without missing any deadlines."
 
 ---
 
-### Q03. What do you do when a team member is not doing their share of work?
-- **Intent**: Tests empathy, communication, and peer conflict handling.
+### Q05. Tell me about a time you received critical feedback during code review.
 - **Answer**:
-  > "I don't complain to professors or managers right away. First, I speak to the teammate privately to ask if they are stuck or facing personal issues. 
+  > "During my internship, my lead pointed out that my test scripts lacked comprehensive error handling for edge cases. 
   > 
-  > In college, a teammate fell sick right before our presentation. Once I spoke to him, we redistributed his slides among the rest of us, and he helped with Q&A notes from home. Talking privately solves most issues without unnecessary drama."
+  > I thanked him, studied his example test cases, and added try-catch blocks and detailed failure logs across all scripts. In our next sprint, he commended my fast improvement."
 
 ---
 
-### Q04. Describe a situation where you had to learn something difficult very quickly.
-- **Intent**: Tests learning speed and resourcefulness.
+### Q06. How do you keep yourself calm and focused when under tight deadlines?
 - **Answer**:
-  > "During a 24-hour hackathon, our team needed to connect our app to a third-party payment gateway that none of us had used before. 
+  > "I follow **MS Dhoni's mindset**: when pressure is high, getting emotional or panicking only leads to mistakes. 
   > 
-  > I took ownership, read the official API documentation, tested sample sandbox calls, and integrated the checkout flow within 4 hours. We ended up winning the runner-up prize."
+  > I take a deep breath, break the remaining workload into 1-hour milestones, and execute them one by one. Staying calm keeps my thinking clear."
 
 ---
 
-### Q05. Tell me about a time you received critical feedback and how you reacted.
-- **Intent**: Checks coachability and whether you take feedback personally.
+### Q07. Tell me about how you handled a bug or code failure in your projects.
 - **Answer**:
-  > "During my internship, my mentor pointed out that my code lacked comments and proper error handling. 
+  > "In early college, our team lost files due to an accidental overwrite in a shared folder. Because of my R&D habits, I had kept a manual backup copy on a separate drive, which saved our project submission! 
   > 
-  > I didn't get defensive. I thanked him for pointing it out, reviewed his example commits, and refactored my pull request with clear comments and try-catch blocks. In my next review, he praised the noticeable improvement in my code quality."
+  > After that, I introduced Git and GitHub to my team so all code was version-controlled and protected from accidental loss."
 
 ---
 
-### Q06. How do you organize your tasks when you have multiple assignments due on the same day?
-- **Intent**: Checks time management and organization under pressure.
+### Q08. How do you handle working with teammates from completely different states or cultures?
 - **Answer**:
-  > "I write down all tasks on a simple list and group them by deadline and difficulty. I start with the most critical or highest-scoring task early in the morning when my focus is sharpest. 
+  > "Coming from Andhra Pradesh and spending four years at Parul University in Gujarat with students from all over India taught me how to communicate with anyone easily. I listen carefully, respect different perspectives, and focus on our common goal."
+
+---
+
+### Q09. Tell me about a time you went out of your way to help someone learn coding.
+- **Answer**:
+  > "One of my hobbies is teaching coding. A junior was finding Python loops and data structures difficult before his practical exams. I spent an evening drawing visual flowcharts and helping him practice small problems. He cleared the exam and gained confidence."
+
+---
+
+### Q10. How do you approach repetitive testing or debugging tasks without getting bored?
+- **Answer**:
+  > "I treat repetitive tasks as opportunities for automation. At ROPODS, instead of manually testing mobile screens repeatedly, I wrote automated Python scripts. Whenever I see repetitive work, I ask: *'Can I write a script or prompt to automate this?'*"
+
+---
+
+### Q11. Describe a time you demonstrated leadership during college or NCC.
+- **Answer**:
+  > "During NCC camps, I led squads in drills where team coordination was critical. In college, when a hackathon project had no clear lead, I organized our task board, assigned roles based on each member's strength, and helped our team complete our submission on time."
+
+---
+
+### Q12. What do you do when a feature works locally on your machine but fails in staging?
+- **Answer**:
+  > "I never say 'it works on my machine.' I check environment variables, dependency versions, and permissions on the staging server to isolate the root cause and fix the configuration."
+
+---
+
+### Q13. How did you handle building StockSense India with real-time NSE data?
+- **Answer**:
+  > "Integrating live data for 2,360+ NSE companies was challenging because of API rate limits and unexpected market fluctuations. 
   > 
-  > I set 45-minute focused work blocks with 5-minute breaks. This keeps me from getting overwhelmed and ensures steady progress on all fronts."
+  > I built fuzzy company search, added resilient error handling, and integrated Gemini AI recommendations to provide clear BUY/SELL/HOLD insights for retail investors."
 
 ---
 
-### Q07. Give an example of a time you solved a tough bug or problem in your code.
-- **Intent**: Checks systematic problem-solving methodology.
+### Q14. How did you approach building VoiceWeaver for text-to-speech and OCR?
 - **Answer**:
-  > "In my college project, users were intermittently getting logged out. Instead of making random guesses in code, I checked the server console logs and reproduced the issue step by step. 
-  > 
-  > I found that the session cookie expiry time was accidentally set in seconds instead of milliseconds. Fixing that one line solved the issue completely."
+  > "I wanted to build a tool that solves real accessibility problems. I connected OCR APIs to extract text from images and integrated multilingual text-to-speech so users can listen to long text effortlessly on a clean, responsive web interface."
 
 ---
 
-### Q08. Have you ever had to work with someone who had a very different personality from yours?
-- **Intent**: Checks adaptability in diverse teams.
+### Q15. How do you ensure your code is secure and free of vulnerabilities?
 - **Answer**:
-  > "Yes. In college, I worked with a partner who was very quiet and preferred chatting over text, while I like quick verbal discussions. 
-  > 
-  > To work smoothly, I adapted: I sent clear task bullet points over Slack/WhatsApp before our meetings so he had time to think, and we kept our calls short and focused. We completed our project with top marks."
+  > "Because exploring vulnerabilities is one of my hobbies, I always validate user inputs, prevent SQL injections by using parameterized queries, ensure sensitive keys are in environment variables, and follow secure coding best practices."
 
 ---
 
-### Q09. Tell me about a time you went out of your way to help a teammate or friend.
-- **Intent**: Checks team player spirit and helpfulness.
+### Q16. Tell me about a time you took the initiative to set up backups or safeguards.
 - **Answer**:
-  > "A classmate was struggling to understand SQL joins before our practical exam. Even though I had my own revision left, I sat with him for an hour, drew visual Venn diagrams, and practiced queries together. Both of us passed with high marks, and he still thanks me for that session."
+  > "After our early college code loss incident, I set up a dedicated GitHub repository with branch protection rules and automated local backup scripts for all our team projects so work was never lost again."
 
 ---
 
-### Q10. How do you handle boring or repetitive tasks without losing focus?
-- **Intent**: Checks patience, discipline, and attention to detail.
+### Q17. How do you stay productive and focused when working remotely?
 - **Answer**:
-  > "I remind myself that even routine tasks are crucial for the overall project to work. I break the task into small batches and challenge myself to complete each batch with 100% accuracy. If possible, I also look for ways to write a simple script to automate parts of the repetitive work."
+  > "During my remote internship at ROPODS, I maintained a strict schedule, used Pomodoro focus intervals, kept my workspace distraction-free, and sent daily standup updates on Slack so my team always had full visibility."
 
 ---
 
-### Q11. Describe a time you had to present your work to a group of people.
-- **Intent**: Checks public communication and presentation confidence.
+### Q18. Describe a time you automated a manual task to save developer time.
 - **Answer**:
-  > "I had to present our final-year project to a panel of external professors. To prepare, I practiced my demo three times in front of my friends, made sure my slides had more diagrams and less text, and timed my talk to exactly 8 minutes. 
-  > 
-  > The presentation went smoothly, and the panel appreciated how clearly we explained our project architecture."
+  > "At ROPODS, manual mobile application testing was taking hours of developer time. I built an AI-assisted test automation framework in Python and Pytest that generated rule-based test data and saved about 90% of manual testing time."
 
 ---
 
-### Q12. What do you do when your code works on your laptop but fails when tested elsewhere?
-- **Intent**: Checks debugging logic and awareness of environments.
+### Q19. What would you do if you noticed a vulnerability in a senior teammate's code?
 - **Answer**:
-  > "I check environment differences first: software versions, missing environment variables, file paths, or permissions. 
-  > 
-  > I avoid saying 'it works on my machine' because what matters is that it works in production. I reproduce the issue in a clean environment and fix the root configuration dependency."
+  > "I would send a polite private message or talk 1-on-1: *'Hey, I noticed this input parameter might be vulnerable to injection—could you take a look to see if we should add sanitization?'* Framing it as a constructive observation keeps things professional."
 
 ---
 
-### Q13. Tell me about a time you showed leadership in college or outside.
-- **Intent**: Checks initiative and leadership potential.
+### Q20. Tell me about a time you felt overwhelmed with college work and how you managed.
 - **Answer**:
-  > "In our 3rd year, our team project had no clear leader and everyone was waiting for someone else to start. I stepped up, created a shared Trello board, assigned tasks based on each member's strength, and scheduled a 10-minute daily sync. 
-  > 
-  > Because of that structure, we became the first team in our batch to complete our project submission."
+  > "During final-year project submissions and exam week, I took a 10-minute walk, listed every single task on paper, prioritized using the Eisenhower Matrix, and finished tasks one by one. Planning clearly removed all stress."
 
 ---
 
-### Q14. How do you handle it when a project's requirements change in the middle of development?
-- **Intent**: Checks adaptability and positive attitude toward change.
+### Q21. How do you make sure you learn from every single mistake?
 - **Answer**:
-  > "I understand that requirements change based on new user needs or business feedback. Instead of complaining about rework, I review what code can be reused, list the changes needed, and adjust my daily milestones to meet the revised target."
+  > "Like **Tony Stark upgrading his armor after every battle**, whenever I make an error or face a failed exam attempt like in Maths, I analyze what went wrong, document the lesson in my personal notes, and practice until I master it."
 
 ---
 
-### Q15. Have you ever had to follow a rule or process that you didn't agree with?
-- **Intent**: Checks discipline, professionalism, and respect for standards.
+### Q22. Tell me about a time you worked independently with minimal guidance.
 - **Answer**:
-  > "Yes. In my internship, we had a strict rule that every small commit required a detailed documentation update, which felt slow at first. 
-  > 
-  > However, when an issue occurred three weeks later, those detailed logs helped us track and fix the bug in 5 minutes. That experience taught me why standard processes exist and why following them is important."
+  > "When developing VoiceWeaver, I independently researched OCR APIs, integrated text-to-speech services, resolved frontend state management issues, and deployed the full app on the cloud on my own."
 
 ---
 
-### Q16. Tell me about a time you took the initiative to fix something that was broken.
-- **Intent**: Checks proactiveness without being told.
+### Q23. How do you apply lessons from playing chess to writing software?
 - **Answer**:
-  > "In our college computer lab, the project setup instructions on the shared drive were outdated and caused setup errors for everyone. 
-  > 
-  > On my own, I wrote a step-by-step updated setup guide with screenshots, tested it on a clean machine, and shared it with our lab instructor, who pinned it for all subsequent batches."
+  > "Chess taught me to think three moves ahead before touching a piece. In software, that means thinking about edge cases, database scalability, and security before writing the first line of code."
 
 ---
 
-### Q17. How do you stay focused when working remotely or from home?
-- **Intent**: Checks remote work discipline and self-management.
+### Q24. Describe a situation where you had to compromise to meet a project launch date.
 - **Answer**:
-  > "I maintain a dedicated workspace with no distractions, follow a strict morning routine, and keep my work hours consistent. I use daily to-do lists and keep my team updated on chat about what I am working on throughout the day."
+  > "For StockSense India, I initially wanted to add advanced chart animations, but the launch date was close. I compromised by launching with clean, static charts first to ensure 100% data accuracy, and added animations in the next update."
 
 ---
 
-### Q18. Describe a time you made a suggestion that improved a project or process.
-- **Intent**: Checks problem-solving and value creation.
+### Q25. What do you do when you finish your assigned tasks ahead of schedule?
 - **Answer**:
-  > "In our college project team, we used to share code files over email, which created version conflicts. I suggested moving our project to GitHub and showed the team how to create branches and pull requests. It saved us hours of manual merging."
+  > "I double-check my code, write unit tests, and ask my team lead or peers if anyone needs help on their modules. If everyone is on track, I use the time to research new tools or practice cybersecurity concepts."
 
 ---
 
-### Q19. What would you do if you noticed a mistake in a senior team member's work?
-- **Intent**: Checks tact, respect, and communication skills.
-- **Answer**:
-  > "I would never call it out publicly in front of others. I would send a polite private message or talk 1-on-1: *'Hey, I was going through the module and noticed this small part—could you help me understand if this was intentional?'* 
-  > 
-  > Framing it as a question allows them to review it without feeling defensive."
+## 💡 Questions for Shabber to Ask the HR at Level 2
 
----
-
-### Q20. Tell me about a time you felt overwhelmed and how you got back on track.
-- **Intent**: Checks emotional self-regulation and resilience.
-- **Answer**:
-  > "During mid-terms, I had two lab exams, an assignment, and an interview preparation test on the same weekend. 
-  > 
-  > I took a 15-minute walk to clear my head, came back, wrote down every single deliverable, and broke each one into 1-hour goals. Focusing on one hour at a time brought my stress down, and I completed everything on time."
-
----
-
-### Q21. How do you make sure you don't repeat the same mistake twice?
-- **Intent**: Checks continuous personal learning.
-- **Answer**:
-  > "Whenever I make a mistake, I write down what caused it in my personal notes file along with the exact fix. I review my notes before starting similar tasks. Building this personal checklist has helped me avoid repeating errors."
-
----
-
-### Q22. Tell me about a time you had to work under minimal guidance.
-- **Intent**: Checks independence and resourcefulness.
-- **Answer**:
-  > "During my internship, my mentor was on unexpected leave for two days while I was building a dashboard chart feature. Instead of sitting idle, I researched official documentation, tested sample chart components, and built the layout. When he returned, 80% of the feature was ready for review."
-
----
-
-### Q23. How do you handle constructive criticism during code reviews?
-- **Intent**: Checks ego management and team culture fit.
-- **Answer**:
-  > "I view code reviews as free learning opportunities from people with more experience. If a reviewer suggests a cleaner way to write a function or points out a missed edge case, I thank them, implement the fix, and make a mental note for future code."
-
----
-
-### Q24. Describe a situation where you had to compromise to keep a project moving.
-- **Intent**: Checks pragmatism and focus on delivery.
-- **Answer**:
-  > "In a college hackathon, I wanted to build a custom animation library for our app UI, but our submission was due in 3 hours. 
-  > 
-  > I compromised by using a standard open-source UI component instead. This let our team focus on testing our core backend features, and we submitted a fully working app on time."
-
----
-
-### Q25. What do you do when you finish all your assigned work before the day ends?
-- **Intent**: Checks proactiveness and team dedication.
-- **Answer**:
-  > "First, I double-check my work and write tests or documentation. Then, I reach out to my lead or teammates to see if anyone needs assistance on their tasks. If everyone is on track, I use the remaining time to read documentation or learn a tool relevant to our project."
-
----
-
-## 💡 Questions to Ask HR at Level 2
-
-1. *"How does the team handle code reviews and knowledge sharing between juniors and seniors?"*
-2. *"What tools or platforms does the team use for daily task tracking and communication?"*
-3. *"How are performance and contributions evaluated for someone in their first year?"*
+1. *"How does the engineering team encourage code reviews and knowledge sharing?"*
+2. *"What tools does the team use for sprint planning and tracking tasks?"*
+3. *"How does leadership evaluate junior developers during their first year?"*

@@ -7,7 +7,7 @@
 ---
 
 ## 📑 Table of Contents
-  [Q01. Tell me about yourself.](#q01-tell-me-about-yourself)
+  [Tell me about yourself.](#q01-tell-me-about-yourself)
   [Q02. Walk me through your resume in one minute.](#q02-walk-me-through-your-resume-in-one-minute)
   [Q03. Why did you choose this field or career stream?](#q03-why-did-you-choose-this-field-or-career-stream)
   [Q04. What are your greatest strengths?](#q04-what-are-your-greatest-strengths)

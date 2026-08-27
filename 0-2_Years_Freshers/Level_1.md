@@ -1,228 +1,221 @@
-# 🟢 Level 1: Foundational & Personal HR Questions (0–2 Years Experience)
-*(Target: Freshers, College Graduates, Entry-Level Candidates)*
+# 🟢 Level 1: Foundational & Personal HR Questions (Shabber Hussain)
+*(0–2 Years Experience | Freshers & Entry-Level)*
 
-> **Core Focus**: Icebreakers, Academic Background, Habits, Personal Strengths, Communication, and Work Readiness.
-> **Language**: Simple, natural, direct, and strong. No complicated corporate buzzwords.
+> **Candidate**: Shabber Hussain (B.Tech CSE - AI & Data Science, Parul University)
+> **Tone**: Simple, direct, conversational, and strong. No complex corporate buzzwords.
 
 ---
 
 ## 📑 Table of Contents
 1. [Q01. Tell me about yourself.](#q01-tell-me-about-yourself)
 2. [Q02. Walk me through your resume in one minute.](#q02-walk-me-through-your-resume-in-one-minute)
-3. [Q03. Why did you choose this field or career stream?](#q03-why-did-you-choose-this-field-or-career-stream)
+3. [Q03. Why did you choose Computer Science and Engineering?](#q03-why-did-you-choose-computer-science-and-engineering)
 4. [Q04. What are your greatest strengths?](#q04-what-are-your-greatest-strengths)
-5. [Q05. What is a real weakness you have, and how are you working on it?](#q05-what-is-a-real-weakness-you-have-and-how-are-you-working-on-it)
-6. [Q06. What subjects in college did you enjoy the most and why?](#q06-what-subjects-in-college-did-you-enjoy-the-most-and-why)
-7. [Q07. What subjects did you find most difficult and how did you pass them?](#q07-what-subjects-did-you-find-most-difficult-and-how-did-you-pass-them)
+5. [Q05. What is a real weakness you have, and how are you managing it?](#q05-what-is-a-real-weakness-you-have-and-how-are-you-managing-it)
+6. [Q06. What was your favorite subject in college and why?](#q06-what-was-your-favorite-subject-in-college-and-why)
+7. [Q07. What subject did you find most difficult and how did you pass it?](#q07-what-subject-did-you-find-most-difficult-and-how-did-you-pass-it)
 8. [Q08. What are your hobbies and what do they teach you?](#q08-what-are-your-hobbies-and-what-do-they-teach-you)
-9. [Q09. How do your friends or teachers describe you?](#q09-how-do-your-friends-or-teachers-describe-you)
-10. [Q10. What is your proudest academic achievement so far?](#q10-what-is-your-proudest-academic-achievement-so-far)
+9. [Q09. How do your friends, peers, or teachers describe you?](#q09-how-do-your-friends-peers-or-teachers-describe-you)
+10. [Q10. Tell me about your NCC training and what it taught you.](#q10-tell-me-about-your-ncc-training-and-what-it-taught-you)
 11. [Q11. What made you apply to our company specifically?](#q11-what-made-you-apply-to-our-company-specifically)
 12. [Q12. What do you know about our company's products or services?](#q12-what-do-you-know-about-our-companys-products-or-services)
 13. [Q13. What are your short-term goals for the next 1 to 2 years?](#q13-what-are-your-short-term-goals-for-the-next-1-to-2-years)
 14. [Q14. Where do you see yourself in 5 years?](#q14-where-do-you-see-yourself-in-5-years)
 15. [Q15. How do you keep your technical skills updated outside of college?](#q15-how-do-you-keep-your-technical-skills-updated-outside-of-college)
-16. [Q16. Are you willing to learn a completely new skill or programming language?](#q16-are-you-willing-to-learn-a-completely-new-skill-or-programming-language)
-17. [Q17. Are you open to relocating to a new city?](#q17-are-you-open-to-relocating-to-a-new-city)
+16. [Q16. Are you willing to learn a completely new programming language or tool?](#q16-are-you-willing-to-learn-a-completely-new-programming-language-or-tool)
+17. [Q17. You moved from Andhra Pradesh to Gujarat for college. Are you open to relocating?](#q17-you-moved-from-andhra-pradesh-to-gujarat-for-college-are-you-open-to-relocating)
 18. [Q18. Are you comfortable working night shifts or rotating shifts?](#q18-are-you-comfortable-working-night-shifts-or-rotating-shifts)
 19. [Q19. Are you willing to sign a service bond if required?](#q19-are-you-willing-to-sign-a-service-bond-if-required)
 20. [Q20. What is your definition of success?](#q20-what-is-your-definition-of-success)
-21. [Q21. What motivates you to get up and work every day?](#q21-what-motivates-you-to-get-up-and-work-every-day)
+21. [Q21. What motivates you to get up and work hard every day?](#q21-what-motivates-you-to-get-up-and-work-hard-every-day)
 22. [Q22. Who is your role model and what have you learned from them?](#q22-who-is-your-role-model-and-what-have-you-learned-from-them)
 23. [Q23. If you had to describe yourself in three words, what would they be?](#q23-if-you-had-to-describe-yourself-in-three-words-what-would-they-be)
-24. [Q24. Have you ever done any extracurricular activities or sports?](#q24-have-you-ever-done-any-extracurricular-activities-or-sports)
+24. [Q24. Have you ever taught or mentored someone in coding?](#q24-have-you-ever-taught-or-mentored-someone-in-coding)
 25. [Q25. What are your salary expectations as a fresher?](#q25-what-are-your-salary-expectations-as-a-fresher)
-26. [💡 Questions to Ask HR at Level 1](#-questions-to-ask-hr-at-level-1)
+26. [💡 Questions for Shabber to Ask the HR at Level 1](#-questions-for-shabber-to-ask-the-hr-at-level-1)
 
 ---
 
 ### Q01. Tell me about yourself.
-- **Intent**: Checks your elevator pitch, confidence, and background relevance.
 - **Answer**:
-  > "I recently completed my degree in Computer Science from [Your College]. During my college years, I focused heavily on building strong fundamentals in programming, web development, and database management. 
+  > "I am Shabber Hussain, a Computer Science and Engineering graduate specializing in Artificial Intelligence from Parul University, originally from Andhra Pradesh.
   > 
-  > I completed a 3-month internship where I built an automated reporting feature for a web app, which taught me how real teams build and deploy code. 
+  > Over the past four years, I've built strong foundations in full-stack development, Python, and AI-assisted workflows. During my internship at **ROPODS**, I built AI-assisted mobile test automation using Python, Appium, and Pytest, which helped save nearly 90% of manual testing time. 
   > 
-  > Right now, I'm eager to start my career with a team where I can learn from experienced seniors and contribute to real-world software solutions from day one."
+  > Alongside my academics, I built production-ready projects like **StockSense India**, a real-time stock analytics dashboard covering 2,300+ NSE companies, and **VoiceWeaver**, an AI text-to-speech and OCR platform. I also hold **NCC 'B' and 'C' Certificates**, which built my consistency, mental grit, and leadership.
+  > 
+  > Right now, I'm looking for an entry-level Software Engineer role where I can apply my problem-solving, rapid learning, and automation skills to build reliable products."
 
 ---
 
 ### Q02. Walk me through your resume in one minute.
-- **Intent**: Tests how clearly you can summarize your journey without reading line by line.
 - **Answer**:
-  > "Starting with my education, I maintained a [X]% / CGPA in [Field] with a focus on practical software development. 
+  > "Starting with education, I completed my B.Tech in CSE (AI & Data Science) at Parul University and did my schooling and intermediate in Andhra Pradesh. 
   > 
-  > On the project side, I built two key applications: an online inventory tracker and an automated student portal. 
+  > For practical experience, I worked as an AI Automation Intern at ROPODS, where I automated mobile testing workflows. On the project side, I built **StockSense India** with Gemini AI for live NSE market analytics, and **VoiceWeaver** for multilingual OCR and speech conversion. 
   > 
-  > In addition to coursework, I earned certifications in [Skill/Course Name] and participated in two inter-college hackathons. 
-  > 
-  > All of this has prepared me to quickly adapt and start delivering in an entry-level software role."
+  > In addition, I hold NCC 'B' & 'C' certificates, Cisco Python certifications, and Infosys Springboard badges. Everything on my resume reflects my passion for hands-on software development and discipline."
 
 ---
 
-### Q03. Why did you choose this field or career stream?
-- **Intent**: Checks genuine passion vs. just following peer pressure.
+### Q03. Why did you choose Computer Science and Engineering?
 - **Answer**:
-  > "I chose software engineering because I love the feeling of writing code that solves a real, tangible problem. In high school, I wrote a small script to organize files on my computer, and seeing code do actual work for me got me hooked. Since then, I've loved building applications that make life easier for people."
+  > "My passion for technology started in childhood when I watched Shankar's movie *Robo*, and later *Iron Man*. Seeing how technology and smart machines could solve huge problems and help people made me fall in love with engineering. 
+  > 
+  > As I grew up, I realized software is like real-world magic—with just a laptop and code, you can build tools that save hours of human effort. That excitement drove me to study Computer Science with Artificial Intelligence."
 
 ---
 
 ### Q04. What are your greatest strengths?
-- **Intent**: Checks self-awareness backed by practical examples.
 - **Answer**:
-  > "My biggest strength is my learning agility and discipline. When a project required a framework we had never studied in college, I went through online tutorials and documentation over the weekend, built a prototype, and helped my team finish the project on schedule."
+  > "My biggest strengths are **fast learning, discipline, leadership, and staying calm under pressure**. 
+  > 
+  > My NCC training instilled strong discipline and consistency in me. On the technical side, I pick up new tools very quickly—like at ROPODS, where I learned Python test automation on the job and delivered the framework ahead of schedule. I can multitask smoothly and stay focused on solving problems."
 
 ---
 
-### Q05. What is a real weakness you have, and how are you working on it?
-- **Intent**: Checks honesty and your ability to improve.
+### Q05. What is a real weakness you have, and how are you managing it?
 - **Answer**:
-  > "Earlier, I used to hesitate before asking for help because I wanted to solve every problem entirely on my own. Sometimes this slowed me down. Now, I follow a simple rule: if I am stuck on an issue for 30 minutes after researching, I organize my findings and reach out to a senior or teammate. This has helped me move much faster."
+  > "Because I like to multitask and take on multiple challenges, I used to try to make every single small detail 100% perfect, which sometimes spread my focus thin across tasks. 
+  > 
+  > To improve this, I now use the **Eisenhower Matrix** to prioritize what is urgent and important first, and the **Pomodoro Technique** to give 25 minutes of deep focus to one single task before moving to the next. This has significantly boosted my productivity."
 
 ---
 
-### Q06. What subjects in college did you enjoy the most and why?
-- **Intent**: Checks your foundational technical interest.
+### Q06. What was your favorite subject in college and why?
 - **Answer**:
-  > "I enjoyed Data Structures and Database Management the most. They taught me how to store and organize information efficiently, which directly helped me design better schemas when building my college web applications."
+  > "My favorite subject is **Cyber Security & System Vulnerabilities**. I love exploring how systems work under the hood, discovering where security loopholes exist, and writing code that protects user data. I spent extra time understanding every missing concept thoroughly because in security, missing even a small detail can compromise an entire application."
 
 ---
 
-### Q07. What subjects did you find most difficult and how did you pass them?
-- **Intent**: Tests resilience and problem-solving when things get tough.
+### Q07. What subject did you find most difficult and how did you pass it?
 - **Answer**:
-  > "I found Compiler Design challenging at first because of the theoretical concepts. To overcome it, I formed a study group with two classmates, broke complex topics into daily chapters, and solved previous year test papers. This helped me clear the subject with an 'A' grade."
+  > "Engineering Mathematics was tough for me initially. It took me two attempts to master and clear the paper because my calculus fundamentals needed extra practice. 
+  > 
+  > Instead of giving up, I dedicated an extra hour every evening to solving problems from scratch and practicing past exam papers systematically until I cleared it. It taught me that any hard problem can be solved with consistency."
 
 ---
 
 ### Q08. What are your hobbies and what do they teach you?
-- **Intent**: Checks personality, balance, and outside interests.
 - **Answer**:
-  > "I enjoy playing badminton and reading technology blogs. Badminton keeps me physically active and sharpens my reflexes and teamwork. Tech blogs help me stay curious about where the industry is moving."
+  > "I have four main hobbies:
+  > 1. **Chess**: Sharpens my strategic thinking and calculating three moves ahead.
+  > 2. **Exploring Software Vulnerabilities**: Helps me understand security flaws and write resilient code.
+  > 3. **Teaching Coding**: Explaining concepts to juniors strengthens my own fundamentals.
+  > 4. **Singing Songs**: Helps me relax, reset, and stay energized after long coding sessions."
 
 ---
 
-### Q09. How do your friends or teachers describe you?
-- **Intent**: Evaluates peer reputation and interpersonal qualities.
+### Q09. How do your friends, peers, or teachers describe you?
 - **Answer**:
-  > "My friends describe me as reliable and calm under pressure. Whenever our project deadlines were close, I was usually the person organizing the tasks and keeping everyone focused on the finish line."
+  > "They describe me as dependable, energetic, and calm in tough situations. Whenever project deadlines were tight or teammates got stressed, I was the one organizing tasks, keeping everyone motivated, and helping resolve blockers."
 
 ---
 
-### Q10. What is your proudest academic achievement so far?
-- **Intent**: Checks drive and what you consider a meaningful success.
+### Q10. Tell me about your NCC training and what it taught you.
 - **Answer**:
-  > "My proudest moment was when our college capstone project won 2nd place among 40 teams in the department project expo. We spent three weeks testing and polishing the user interface, and getting recognition from industry judges was very rewarding."
+  > "Earning both **NCC 'B' and 'C' Certificates** taught me that true success comes from **consistency, hard work, and mental toughness**. 
+  > 
+  > Early 4:30 AM drills, pushing through physical fatigue, and leading squads during camps taught me how to work selflessly in a team and lead from the front. It gave me the grit to never back down from difficult workplace challenges."
 
 ---
 
 ### Q11. What made you apply to our company specifically?
-- **Intent**: Tests if you researched the company before applying.
 - **Answer**:
-  > "I read about your recent work in [product or service, e.g., cloud platforms / fintech solutions]. What stood out to me is your strong culture of training fresh graduates and giving them hands-on project exposure early. That's exactly the environment where I want to start my career."
+  > "I researched your engineering work on [Product/Service Name] and was impressed by how your team builds scalable solutions. As someone with hands-on experience in full-stack development and AI automation, I want to contribute to meaningful projects where high standards and continuous learning are valued."
 
 ---
 
 ### Q12. What do you know about our company's products or services?
-- **Intent**: Checks basic homework on the company.
 - **Answer**:
-  > "Your company builds [Name core product/service], which helps [mention client type, e.g., retail businesses / enterprise clients] automate [mention function, e.g., customer management / payment processing]. I was especially interested in your latest release which focuses on [mention recent feature/news]."
+  > "Your company develops [Core Product/Service], helping [Target Customers] solve [Core Problem]. I was particularly interested in your recent focus on [Recent Feature or Tech initiative], which aligns with my interest in building efficient, user-centric software."
 
 ---
 
 ### Q13. What are your short-term goals for the next 1 to 2 years?
-- **Intent**: Checks immediate focus and work readiness.
 - **Answer**:
-  > "In the next 1 to 2 years, my primary goal is to master your tech stack, understand your codebase deeply, and become a dependable engineer who can complete tasks with minimal supervision."
+  > "In the next 1 to 2 years, my goal is to master your tech stack, understand your codebase inside-out, and become a dependable engineer who delivers clean, well-tested code with minimal supervision."
 
 ---
 
 ### Q14. Where do you see yourself in 5 years?
-- **Intent**: Tests retention, stability, and realistic growth plans.
 - **Answer**:
-  > "In 5 years, I want to be a strong technical contributor who takes full ownership of complex modules, helps design scalable solutions, and mentors newer joiners who enter the team."
+  > "In 5 years, I see myself as a Senior Full-Stack / AI Engineer and Module Lead who designs reliable system architecture, ensures security standards, and mentors new joiners entering the team."
 
 ---
 
 ### Q15. How do you keep your technical skills updated outside of college?
-- **Intent**: Evaluates self-motivation and continuous learning habits.
 - **Answer**:
-  > "I follow developer communities on YouTube and GitHub, read documentation for new releases, and build mini-projects on weekends to practice whatever new tool or library I discover."
+  > "I explore developer tools, practice prompt engineering, research system vulnerabilities, and build practical projects like StockSense India and VoiceWeaver. Hands-on building is how I stay updated."
 
 ---
 
-### Q16. Are you willing to learn a completely new skill or programming language?
-- **Intent**: Checks flexibility and openness to project requirements.
+### Q16. Are you willing to learn a completely new programming language or tool?
 - **Answer**:
-  > "Yes, 100%. I believe programming languages and frameworks are tools to solve problems. With solid basics in logic and data structures, I can pick up any new language or technology that the project requires."
+  > "Yes, 100%. At my ROPODS internship, I was hired with a C background but was assigned to build Python test automation. I learned Python, Appium, and Pytest on the job and delivered successfully. I view tools as vehicles to solve problems."
 
 ---
 
-### Q17. Are you open to relocating to a new city?
-- **Intent**: Verifies location flexibility.
+### Q17. You moved from Andhra Pradesh to Gujarat for college. Are you open to relocating?
 - **Answer**:
-  > "Yes, I am completely open to relocating. I see moving to a new city as a great opportunity to gain independence, adapt to a new environment, and focus fully on my career."
+  > "Yes, absolutely. Moving from Andhra Pradesh to Gujarat for my 4-year B.Tech at Parul University made me highly independent and adaptable to any language, food, culture, or city. Relocating anywhere for work is completely smooth for me."
 
 ---
 
 ### Q18. Are you comfortable working night shifts or rotating shifts?
-- **Intent**: Checks operational readiness.
 - **Answer**:
-  > "Yes, I am comfortable with rotational or night shifts based on client needs and project timelines. As long as expectations are clear, I can manage my schedule easily."
+  > "Yes, fully comfortable. Thanks to my NCC routine and project schedules, I can easily adapt my sleep and work cycle to match project requirements."
 
 ---
 
 ### Q19. Are you willing to sign a service bond if required?
-- **Intent**: Checks long-term commitment.
 - **Answer**:
-  > "Yes, I am open to a service bond as long as the terms are standard and fair. Since I am looking for a stable start to my career where I can spend significant time learning and contributing, a reasonable agreement works for me."
+  > "Yes, I am open to a standard service agreement. I am looking for a stable company where I can spend substantial time learning, building, and delivering value."
 
 ---
 
 ### Q20. What is your definition of success?
-- **Intent**: Checks values and mindset.
 - **Answer**:
-  > "For me, success means setting a clear goal, giving my best effort to achieve it, and learning something valuable along the way. In a job, success is knowing that the code I wrote helped someone or made the business run smoother."
+  > "Success means setting a clear target, putting in disciplined effort every day, learning from errors, and delivering code that makes a real difference to users and the business."
 
 ---
 
-### Q21. What motivates you to get up and work every day?
-- **Intent**: Checks internal drive and energy.
+### Q21. What motivates you to get up and work hard every day?
 - **Answer**:
-  > "The chance to build something useful and learn something new every day. Solving a bug that was stuck or finishing a feature that works cleanly gives me great satisfaction."
+  > "The thrill of building software that solves real human problems and the drive to continuously upgrade my skills—just like Tony Stark constantly upgrading his tech."
 
 ---
 
 ### Q22. Who is your role model and what have you learned from them?
-- **Intent**: Checks what personality traits you admire.
 - **Answer**:
-  > "My father is my role model. He taught me the value of consistency and punctuality—showing up and doing your honest work every single day, even when things are tough. I try to practice that same discipline."
+  > "I have three role models:
+  > - **My Father**: For daily hard work and discipline.
+  > - **MS Dhoni**: For staying cool and calm under intense pressure.
+  > - **Tony Stark / Iron Man**: For learning from every failure and continuously innovating.
+  > The core lesson from all three is **unwavering consistency**."
 
 ---
 
 ### Q23. If you had to describe yourself in three words, what would they be?
-- **Intent**: Checks quick thinking and core identity.
 - **Answer**:
-  > "I would choose: **Curious, Disciplined, and Adaptable**. Curious because I love learning, disciplined in my work habits, and adaptable in new situations."
+  > "**Disciplined, Quick-Learner, and Resilient**. Disciplined through NCC, a quick learner with modern tech and AI tools, and resilient through challenges."
 
 ---
 
-### Q24. Have you ever done any extracurricular activities or sports?
-- **Intent**: Checks communication, energy, and well-rounded personality.
+### Q24. Have you ever taught or mentored someone in coding?
 - **Answer**:
-  > "Yes, I was a member of our college robotics club and played intramural cricket. Organizing club events helped me learn how to coordinate with different teams, manage small budgets, and speak publicly."
+  > "Yes, one of my favorite hobbies is teaching coding to classmates and juniors. Breaking down difficult logic into simple steps helps them learn faster and strengthens my own fundamentals."
 
 ---
 
 ### Q25. What are your salary expectations as a fresher?
-- **Intent**: Validates entry-level compensation alignment.
 - **Answer**:
-  > "As a fresher, my main focus is on joining a great company where I can build strong skills and add value. I am confident your company offers fair compensation as per industry standards for entry-level roles, and I am happy to accept standard company guidelines."
+  > "Based on my practical experience in AI automation, full-stack application development, and current market benchmarks, I am targeting a range between **6 to 8 LPA** as a fresher. However, finding the right team to learn and grow is my top priority, and I am open to discussing company standards."
 
 ---
 
-## 💡 Questions to Ask HR at Level 1
+## 💡 Questions for Shabber to Ask the HR at Level 1
 
-1. *"What does the training and onboarding program look like during the first 30 days?"*
-2. *"What does a typical work day look like for a new joiner on this team?"*
+1. *"What does the onboarding and training process look like for new graduate engineers on this team?"*
+2. *"How does the team currently use AI tools and automation in daily development?"*
 3. *"What are the next steps in this selection process?"*

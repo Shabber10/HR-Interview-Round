@@ -4,7 +4,7 @@ A structured, practical, and conversational HR interview preparation guide organ
 
 ---
 
-## 📂 Clean Repository Structure & Navigation
+## 📂 Repository Structure & Navigation
 
 ```text
 ├── 0-2_Years_Freshers/
@@ -15,7 +15,7 @@ A structured, practical, and conversational HR interview preparation guide organ
 │   └── 2-5_Years_Experience.md    (Mid-Level Execution, Ownership, Agile & Mentorship - 25 Q&As)
 ├── 5_Plus_Years_Experience/
 │   └── 5_Plus_Years_Experience.md (Senior & Leadership, Strategy & Crisis Management - 25 Q&As)
-└── HR_Interview_Questions_and_Answers.md (Complete Master Compilation Guide)
+└── README.md                      (Clean Index & Navigation Guide)
 ```
 
 ---
@@ -23,7 +23,7 @@ A structured, practical, and conversational HR interview preparation guide organ
 ## 🧭 Direct Links to Guides
 
 ### 🟢 1. [0–2 Years Experience (Freshers & Junior Roles)](./0-2_Years_Freshers/)
-*Total: 75 Non-Repeating, Unique Personalized Questions across 3 Levels*
+*Total: 75 Non-Repeating, Unique Questions across 3 Levels*
 
 - **[Level 1: Foundational & Personal](./0-2_Years_Freshers/Level_1.md)** (25 Q&As)
   - Self-introduction, strengths (multitasking, fast learning, NCC discipline), weakness (perfectionism & Pomodoro/Eisenhower Matrix), hobbies (chess, vulnerability exploration, teaching coding, singing), role models (Father, Dhoni, Iron Man), relocation, and salary expectations (6–8 LPA).
